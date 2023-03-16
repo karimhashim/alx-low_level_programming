@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /** 
  * propgram that prints line 
  */
