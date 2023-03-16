@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/* 
+/** 
  * propgram that prints line 
- * */
+ */
 int main () {
  
 
