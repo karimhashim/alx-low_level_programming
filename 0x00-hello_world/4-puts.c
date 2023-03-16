@@ -3,8 +3,8 @@
 /** 
  * propgram that prints line 
  */
-int main () {
- 
+int main(void)
+{
 
 puts("\"Programming is like building a multilingual puzzle" );
   
