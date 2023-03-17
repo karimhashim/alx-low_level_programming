@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(void){
-char c;
-for(c = 'Z'; c>='a' ; c--)
+char ch;
+for(ch = 'Z'; ch >= 'a' ; ch--)
 {
-putchar(c);
+putchar(ch);
 }
 putchar('\n');
 return (0);
