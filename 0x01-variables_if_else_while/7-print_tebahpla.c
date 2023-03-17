@@ -2,7 +2,7 @@
 
 int main(void){
 char c;
-for(c = "Z"; c>="a" ; c--)
+for(c = 'Z'; c>='a' ; c--)
 {
 putchar(c);
 }
