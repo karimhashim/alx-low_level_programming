@@ -3,7 +3,7 @@
 
 int _isupper(int c)
 {
-	if (isupper(c))
+	if (c > 'A' && c < 'Z')
 	{
 		retrun (1);
 	}else{
